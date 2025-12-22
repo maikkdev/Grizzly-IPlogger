@@ -1,0 +1,32 @@
+/* i would reccomend you leave all of this as is, but im not your mother, i cant tell you what to not do. */
+
+body { 
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #1a1a1a; 
+}
+.container { 
+    max-width: 600px;
+    margin: 0 auto; 
+    padding: 50px; 
+}
+h1 {
+    font-size: 48px; 
+    color: #aaaaaa; 
+}
+p { 
+    font-size: 18px; 
+    color: #b4b4b4; 
+}
+.search-bar { 
+    margin: 20px 0; 
+}
+footer { 
+    margin-top: 50px; 
+    font-size: 14px; 
+    color: #cccccc; 
+}
+a:hover{
+    color: rgb(226, 226, 226);
+    text-decoration: none;
+}
