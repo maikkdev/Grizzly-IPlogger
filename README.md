@@ -54,7 +54,7 @@ Proyecto desarrollado por **Grizzly Team’s**, una comunidad enfocada en:
 - **Ciberseguridad**
 - **Programación**
 - **OSINT educativo**
-- **Desarrollo de herramientas con fines formativos**
+- **Desarrollo de herramientas con fines educativos**
 
 ---
 
