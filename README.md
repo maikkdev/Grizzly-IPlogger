@@ -1,7 +1,7 @@
-# 🐻 Grizzly Studio  
-## **Grizzly Team’s | IP Logger con Webhook**
+# 🐻 Grizzly IPlogger
+## **Grizzly Team’s | IP Logger**
 
-Este repositorio contiene una **página IP Logger** desarrollada por **Grizzly Team’s**, basada en `index.html` y un script que **recopila y envía información de red y geolocalización aproximada del visitante a un webhook**, con fines **estrictamente educativos y técnicos**.
+Este repositorio contiene una **página IP Logger** desarrollada por **Grizzly Team’s**, basada en `index` y un `script` que **recopila y envía información de red y geolocalización aproximada del visitante a un webhook**, con fines **estrictamente educativos y técnicos**.
 
 ---
 
@@ -56,5 +56,11 @@ Proyecto desarrollado por **Grizzly Team’s**, una comunidad enfocada en:
 - **OSINT educativo**
 - **Desarrollo de herramientas con fines formativos**
 
-> Discord: https://discord.gg/6AMn6b4WpK
-[iwjwwbowj](https://discord.gg/6AMn6b4WpK)
+---
+
+## 📞 Contactos
+> Discord: [**Grizzly Team's.**](https://discord.gg/6AMn6b4WpK)
+
+> Gmail: [**soyminemaikyt@gmail.com**](soyminemaikyt@gmail.com)
+
+> Usuario de discord: `@maikkdev`
